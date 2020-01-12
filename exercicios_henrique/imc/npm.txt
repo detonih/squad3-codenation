@@ -1,0 +1,5 @@
+npm install --> instala e nao salva nas dependecias
+npm i --> instala e salva nas dependencias
+npm instal --save --> instala e salva nas dependecias
+npm i -D --> instala e salva nas devDependecies
+npm install --save-dev --> instala e salva nas devDependecies
